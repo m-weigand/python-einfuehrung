@@ -3,3 +3,5 @@ einfache_textdatei.dat
 einfache_textdatei_mit_header.dat
 *.png
 .ipynb_checkpoints/
+*.tex
+*.pdf
